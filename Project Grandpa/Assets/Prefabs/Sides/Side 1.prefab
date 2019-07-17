@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1509537989379033631
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3874427170259687705}
+  m_Layer: 0
+  m_Name: Side 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3874427170259687705
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1509537989379033631}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8184128495368533769}
+  - {fileID: 6958447467062358142}
+  - {fileID: 86609956840714554}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2649757660113933564
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3874427170259687705}
+    m_Modifications:
+    - target: {fileID: 4672704814275185564, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_Name
+      value: Trash Can Scenery (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.77999735
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.30070576
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.953717
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9c7d5f446f370b6408e206cea23ef47b, type: 3}
+--- !u!4 &86609956840714554 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2649757660113933564}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5001028432755250616
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3874427170259687705}
+    m_Modifications:
+    - target: {fileID: 4672704814275185564, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_Name
+      value: Trash Can Scenery (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9c7d5f446f370b6408e206cea23ef47b, type: 3}
+--- !u!4 &6958447467062358142 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+    type: 3}
+  m_PrefabInstance: {fileID: 5001028432755250616}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6081471686658577103
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3874427170259687705}
+    m_Modifications:
+    - target: {fileID: 4672704814275185564, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_Name
+      value: Trash Can Scenery
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.44000244
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5299192
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8480481
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9c7d5f446f370b6408e206cea23ef47b, type: 3}
+--- !u!4 &8184128495368533769 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2735487925796382150, guid: 9c7d5f446f370b6408e206cea23ef47b,
+    type: 3}
+  m_PrefabInstance: {fileID: 6081471686658577103}
+  m_PrefabAsset: {fileID: 0}

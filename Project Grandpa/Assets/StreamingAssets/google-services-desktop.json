@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630857579289",
+    "firebase_url": "https://project-grandpa.firebaseio.com",
+    "project_id": "project-grandpa",
+    "storage_bucket": "project-grandpa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630857579289:android:91a9290a8ef30ab5",
+        "android_client_info": {
+          "package_name": "com.bogstar.ProjectGrandpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630857579289-9kkncvfrtrctu1lap6nghkqfqdu4sefi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpn4x7oKb_j3VJZlmi9gnqTRDRP2iIDi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630857579289-9kkncvfrtrctu1lap6nghkqfqdu4sefi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
